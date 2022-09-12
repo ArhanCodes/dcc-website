@@ -1,2 +1,2 @@
 # DCC Website
-The Dubai Computing Community website, but not in Svelte. 
+The Dubai Computing Community website, but not in Svelte. The one in Svelte is [here](https://github.com/DubaiComputingCommunity/website).
